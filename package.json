@@ -1,5 +1,5 @@
 {
-  "name": "jest1-testing",
+  "name": "jest1",
   "version": "1.0.0",
   "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MilenTecle/jest1-testing.git"
+    "url": "git+https://github.com/MilenTecle/jest1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MilenTecle/jest1-testing/issues"
+    "url": "https://github.com/MilenTecle/jest1/issues"
   },
-  "homepage": "https://github.com/MilenTecle/jest1-testing#readme",
+  "homepage": "https://github.com/MilenTecle/jest1#readme",
   "devDependencies": {
     "jest": "^26.6.3"
   }
